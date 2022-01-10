@@ -27,7 +27,7 @@ For this task, I opted to create the learning exerience using Storyline 360 give
 - *Additional detail/context about any project elements where needed*
   - The assets are a mix of self-created, modified royalty-free, and prebuilt icons/assets available from the Storyline 360 library to speed up creation of the learning experience.
 - *Why you created these the way you did (your technical perspective)*
-  - The main reason I created everything the way I did was to focus on the implementation aspects of the learning experience rather than the content itself. 
+  - The main reason I created everything the way I did was to focus on the implementation aspects of the learning experience rather than writing the content itself. 
 - *What tools you used to accomplish the project*
   - I leveraged Storyline 360, Adobe Illustrator, and Adobe Photoshop
 - *Tradeoffs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project*
