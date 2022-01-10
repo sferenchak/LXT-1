@@ -2,6 +2,7 @@
 
 **Part 1: Teach us something new, in any digital format you choose**
 Pick an emerging learning trend or technology that you define as “innovative” that would be interesting to a modern learner and teach us more about it. We encourage you to have fun with the design of this learning experience  it’s your opportunity to show us how you think about constructing learnings for a fast paced, innovative team.
+
 **Deliverable:** A quick digital learning experience, 5 minutes maximum. 
 
 ## Overview
