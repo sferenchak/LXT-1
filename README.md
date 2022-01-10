@@ -1,14 +1,18 @@
 # LXT-1
 
+## The Task
+
 **Part 1: Teach us something new, in any digital format you choose**
 Pick an emerging learning trend or technology that you define as “innovative” that would be interesting to a modern learner and teach us more about it. We encourage you to have fun with the design of this learning experience  it’s your opportunity to show us how you think about constructing learnings for a fast paced, innovative team.
 
 **Deliverable:** A quick digital learning experience, 5 minutes maximum. 
 
 ## Overview
+
 For this task, I opted to create the learning exerience using Storyline 360 given the scope of the deliverables and the timeframe available. I focused on implementing various gamification techniques such as badging, point systems, and a fun design aesthetic while leveraging content from wikipedia regarding the topic itself rather than attempting to write, design, and build from scratch.
 
 ## Main Features
+
 - **Fun, Engaging Design**
   - The UI was built to mimic an arcade cabinet and the content itself was
 - **Badge System**
@@ -19,6 +23,7 @@ For this task, I opted to create the learning exerience using Storyline 360 give
   - The game character moves along the bottom as you progress through the module.
 
 ## Extra Information
+
 - *Additional detail/context about any project elements where needed*
   - The assets are a mix of self-created, modified royalty-free, and prebuilt icons/assets available from the Storyline 360 library to speed up creation of the learning experience.
 - *Why you created these the way you did (your technical perspective)*
