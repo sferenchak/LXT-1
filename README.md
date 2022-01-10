@@ -14,7 +14,7 @@ For this task, I opted to create the learning exerience using Storyline 360 give
 ## Main Features
 
 - **Fun, Engaging Design**
-  - The UI was built to mimic an arcade cabinet and the content itself was
+  - The UI was built to mimic an arcade cabinet.
 - **Badge System**
   - Various badges are unlocked for acheiving different goals throughout the training like, pressing the "Start" button to begin, setting a new high score, and completing all content.
 - **Point System**
