@@ -14,7 +14,7 @@ For this task, I opted to create the learning exerience using Storyline 360 give
 - *Why you created these the way you did (your technical perspective)*
   - The main reason I created everything the way I did was to focus on the implementation aspects of the learning experience rather than the content itself. 
 - *What tools you used to accomplish the project*
-  - I leveraged, Storyline 360, Adobe Illustrator, and Adobe Photoshop
+  - I leveraged Storyline 360, Adobe Illustrator, and Adobe Photoshop
 - *Tradeoffs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project*
   - Were I to have more available time, I would have written my own content and implemented it in a more story-driven, interactive narrative style. I also would have included some fun music and other sound effects.
 - *Links to the final products (hosting, if needed, is up to you)*
