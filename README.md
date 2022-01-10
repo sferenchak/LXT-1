@@ -8,6 +8,16 @@ Pick an emerging learning trend or technology that you define as â€œinnovativeâ€
 ## Overview
 For this task, I opted to create the learning exerience using Storyline 360 given the scope of the deliverables and the timeframe available. I focused on implementing various gamification techniques such as badging, point systems, and a fun design aesthetic while leveraging content from wikipedia regarding the topic itself rather than attempting to write, design, and build from scratch.
 
+## Main Features
+- **Fun, Engaging Design**
+  - The UI was built to mimic an arcade cabinet and the content itself was
+- **Badge System**
+  - Various badges are unlocked for acheiving different goals throughout the training like, pressing the "Start" button to begin, setting a new high score, and completing all content.
+- **Point System**
+  - Points can be gained for each piece of content viewed as well as answering questions correctly.
+- **Visual Progress**
+  - The game character moves along the bottom as you progress through the module.
+
 ## Extra Information
 - *Additional detail/context about any project elements where needed*
   - The assets are a mix of self-created, modified royalty-free, and prebuilt icons/assets available from the Storyline 360 library to speed up creation of the learning experience.
