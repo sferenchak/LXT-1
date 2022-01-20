@@ -9,7 +9,7 @@ Pick an emerging learning trend or technology that you define as â€œinnovativeâ€
 
 ## Overview
 
-For this task, I opted to create the learning exerience using Storyline 360 given the scope of the deliverables and the timeframe available. I focused on implementing various gamification techniques such as badging, point systems, and a fun design aesthetic while leveraging content from wikipedia regarding the topic itself rather than attempting to write, design, and build from scratch.
+For this task, I opted to create the learning exerience using Storyline 360 given the scope of the deliverables and the timeframe available. I focused on implementing various gamification techniques such as badging, point systems, and a fun design aesthetic while leveraging content from wikipedia regarding the topic itself rather than attempting to write, design, and build from scratch. Total design and build time was approximately 6-7 hours from initial concept idea to publish.
 
 ## Main Features
 
